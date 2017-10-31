@@ -1,0 +1,17 @@
+#map {
+	position: relative;
+	left:25vw;
+	top:10vh;
+	width:700px;
+	height:500px;
+}
+
+#information {
+	position: relative;
+	width:350px;
+	height:50px;
+	left:35vw;
+	top:10vh;
+	font-size: 30px;
+	text-align: center;
+}
